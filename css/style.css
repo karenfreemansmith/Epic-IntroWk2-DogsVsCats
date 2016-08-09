@@ -1,5 +1,11 @@
+body {
+  background: #ffe5cc;
+  color: #004d4d;
+}
+
 ul {
   margin-top: 20px;
+  padding: 0;
 }
 
 li {
@@ -13,4 +19,27 @@ body {
 
 .btn {
   font-size: 2em;
+}
+
+.img-small {
+  width: 275px;
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 25px;
+  border: 2px solid #004d4d;
+}
+
+.jumbotron {
+  background: #994a00;
+  color: #ffa64d;
+}
+
+.btn-default {
+  color: #004d4d;
+}
+
+@media only screen and (max-width: 520px) {
+  p {
+    font-size: .8em;
+  }
 }
