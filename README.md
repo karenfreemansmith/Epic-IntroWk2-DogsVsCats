@@ -1,9 +1,9 @@
-# :cat::cat: [Cats -vs- Dogs](http://karenfreemansmith.github.io/catsvsdogs) :dog::dog:
+# :dog::dog: [Dogs-vs- Cats](http://karenfreemansmith.github.io/dogsvscats) :cat::cat:
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: March 29, 2016__
+__Version 2: August 9, 2016__
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+## by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Zachary Matthewstearn](http://zacharymatthewstearn.github.io)
 
 ### Description
 __*Almost like a game... pitting cats against dogs to see who can 'bark' the loudest.*__
@@ -15,8 +15,7 @@ __*Almost like a game... pitting cats against dogs to see who can 'bark' the lou
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* need some whitespace between images and "conversation"
-* would be nice if there was a delay between 1st and 2nd "speaker"
+* n/a
 
 ### Technologies Used
 ###### HTML, CSS, Bootstrap, JavaScript, jQuery
@@ -24,4 +23,4 @@ For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 ### Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 **_Karen Freeman-Smith_ & _Zachary Matthewstearn_**
