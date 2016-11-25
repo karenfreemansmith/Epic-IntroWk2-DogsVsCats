@@ -1,20 +1,19 @@
-# :dog::dog: [Dogs-vs- Cats](http://karenfreemansmith.github.io/dogsvscats) :cat::cat:
-![project screenshot](/img/screenshot.jpg)
+# Dogs-vs-Cats
+Version 0.0.1: August 9, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Zachary Matthewstearn](https://zacharymatthewstearn.github.com)
 
-__Version 2: August 9, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Zachary Matthewstearn](http://zacharymatthewstearn.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Almost like a game... pitting cats against dogs to see who can 'bark' the loudest.*__
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Epicodus](http://epicodus.com) Intro to Programming Week 2 Pair Project with Zachary Matthewstearn: A webpage that pits dogs vs cats to demonstrate using jQuery and CSS classes for formatting.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-DogsVsCats)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
@@ -26,4 +25,4 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 ## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io) & [Zachary Matthewstearn](https://zacharymatthewstearn.github.com)_ All Rights Reserved.
